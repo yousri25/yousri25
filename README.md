@@ -1,12 +1,12 @@
 ## Hi there 👋 Im Yousri
 
-🎓 Student – Coding my way through school.
-🎮 Game Dev – Building fun stuff in Godot & Unity.
-🌐 Web Dev – Crafting websites with passion.
-❤️ Code Lover – Python, C#, GDScript, Arduino—you name it!
-🐧 Linux User – Powered by open-source.
-📚 Always Learning – Forever a student of tech.
-💬 Ask Away! – Need help? Just DM me!
+🎓 Student - Coding my way through school.<br>
+🎮 Game Dev - Building fun stuff in Godot & Unity.<br>
+🌐 Web Dev - Crafting websites with passion.<br>
+❤️ Code Lover - Python, C#, GDScript, Arduino—you name it!<br>
+🐧 Linux User - Powered by open-source.<br>
+📚 Always Learning - Forever a student of tech.<br>
+💬 Ask Away! - Need help? Just DM me!<br>
 
 
 ## 🌐 Socials:

@@ -6,7 +6,7 @@ I’m a student and developer with a strong interest in building practical, well
 - 🎮 Interested in game development and interactive systems  
 - 🌐 Web development enthusiast  
 - 🐧 Linux user and open-source supporter  
-- 📚 Continuously learning and improving  
+- 🔐 Interested in cybersecurity, with a focus on system security and networking fundamentals 
 - 💬 Open to collaboration and discussion  
 
 ## 🌐 Socials

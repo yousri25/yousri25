@@ -14,11 +14,6 @@ I’m a student and developer with a strong interest in building practical, well
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yousribenhariz59)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yousribenhariz59@gmail.com)
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=yousri25&theme=merko&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=yousri25&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yousri25&theme=merko&layout=compact&hide_border=false)
-
 ## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 

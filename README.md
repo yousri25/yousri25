@@ -1,34 +1,22 @@
-# Yousri
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://ascii.rest/svg/kali-linux.dark.svg">
+    <img alt="kali linux" src="https://ascii.rest/svg/kali-linux.svg" width="400">
+  </picture>
+</p>
 
-```python
-from pwn import *
-
-context.update(arch="amd64", os="linux")
-
-p = remote("tunisia", 1337)
-
-p.sendlineafter(b"name: ", b"Yousri")
-p.sendlineafter(b"focus: ", b"binary exploitation, digital forensics")
-p.sendlineafter(b"tools: ", b"Ghidra, pwntools, Autopsy, Python, Linux")
-
-p.interactive()
+```
+$ ls ~/projects
+My-Malware/                  educational, isolated-lab research
+security-consultant-agent/   CVE lookup + email breach checks
 ```
 
-## checksec
+- [My-Malware](https://github.com/yousri25/My-Malware): educational malware PoC for analysis in an isolated lab
+- [security-consultant-agent](https://github.com/yousri25/security-consultant-agent): CVE lookup and email breach checks
+
 ```
-Student:        Yes
-Focus:          Pwn (reverse engineering, exploit dev)
-Also:           Digital forensics
-Daily driver:   Linux
-Status:         Learning, playing CTFs, building things
+$ cat ~/toolbox
+ghidra  pwntools  gdb  autopsy  python  linux
 ```
 
-## Projects
-- **[ghidra_auto](https://github.com/yousri25/ghidra_auto)**: imports, analyzes, and opens binaries in Ghidra with one command
-- **[security-consultant-agent](https://github.com/yousri25/security-consultant-agent)**: CVE lookup and email breach checks
-
-## Write-ups
-Pwn challenge write-ups coming soon in `pwn-writeups`.
-
-## Contact
-[LinkedIn](https://linkedin.com/in/your-profile) · [Email](mailto:yousribenhariz59@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/yousri-ben-hariz-9442b8419/) · [Email](mailto:yousribenhariz59@gmail.com)

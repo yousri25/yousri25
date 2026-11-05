@@ -15,13 +15,13 @@
 ---
 
 ## About
-Student focused on **pwn** and **digital forensics**. I play CTFs, build security tools, and write small research projects to understand how binaries and malware behave.
+Student focused on **pwn** and **digital forensics**. I play CTFs, build security tools, and make small research projects .
 
 ## Projects
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**My-Malware**](https://github.com/yousri25/My-Malware) | Educational malware PoC for analysis in an isolated lab. *Research use only.* | Add language |
+| [**My-Malware**](https://github.com/yousri25/My-Malware) | Educational malware PoC for analysis in an isolated lab. *Research use only.* | Python/Batch |
 | [**security-consultant-agent**](https://github.com/yousri25/security-consultant-agent) | CVE lookup and email breach checks | Python |
 
 ## Toolbox
@@ -35,7 +35,7 @@ Student focused on **pwn** and **digital forensics**. I play CTFs, build securit
 
 ## Currently
 - Learning pwn through CTF challenges
-- Building a cybersecurity learning platform with a friend
+- Building a cybersecurity learning platform
 
 ---
 

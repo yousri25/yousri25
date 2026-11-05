@@ -21,7 +21,7 @@ Student focused on **pwn** and **digital forensics**. I play CTFs, build securit
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**My-Malware**](https://github.com/yousri25/My-Malware) | Educational malware PoC for analysis in an isolated lab. *Research use only.* | Python/Batch |
+| [**My-Malware**](https://github.com/yousri25/My-Malware) | Educational malware and C2 for analysis in an isolated lab. *Research use only.* | Python/Batch |
 | [**security-consultant-agent**](https://github.com/yousri25/security-consultant-agent) | CVE lookup and email breach checks | Python |
 
 ## Toolbox

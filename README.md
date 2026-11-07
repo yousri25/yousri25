@@ -23,6 +23,7 @@ Student focused on **pwn** and **digital forensics**. I play CTFs, build securit
 |---|---|---|
 | [**My-Malware**](https://github.com/yousri25/MyMalware) | Educational malware for analysis in an isolated lab. *Research use only.* | Python |
 | [**security-consultant-agent**](https://github.com/yousri25/security-consultant-agent) | CVE lookup and email breach checks | Python/Streamlit |
+| [**AI-Explorer-Robot**](https://github.com/yousri25/AI-Explorer-Robot-Project) | Autonomous AI-powered robot | MicroPython |
 
 ## Toolbox
 
